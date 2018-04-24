@@ -16,3 +16,6 @@ All in One Termux Os..!! (New)
 5) bash Termux-Os.sh
 
 [*] Enjoy Hacking....
+
+
+These are <b style='color:red'>red words</b>.
