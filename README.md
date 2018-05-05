@@ -9,7 +9,7 @@ All in One Termux Os..!! (New)
 
 2) cd Termux-Os
 
-3) chmod +x requirement.sh Termux-os.sh
+3) chmod +x requirement.sh Termux-Os.sh
 
 4) bash requirement.sh
 
