@@ -20,5 +20,5 @@ All in One Termux Os..!! (New)
 
 These are <b style='color:red'>red words</b>.
 
-<body style="background-color:#FF0000;">
+<body style="background-color:black;">
 </body>
