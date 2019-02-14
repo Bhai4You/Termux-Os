@@ -17,7 +17,6 @@ All in One Termux Os..!! (New)
 
 [*] Enjoy Hacking....
 
-
 These are <b style='color:black'>red words</b>.
 
 <body style="background-color:black;">
