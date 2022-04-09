@@ -18,7 +18,7 @@ All in One Termux Os..!! (New)
 [*] Enjoy Hacking....
 
 
-These are <b style='color:black'>red words</b>.
 
-<body style="background-color:black;">
-</body>
+## Download App
+  <a href="https://bit.ly/termuxdetective"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_detective.gif" alt="Termux Detective" width="900" height="60"></a>
+  <br>
