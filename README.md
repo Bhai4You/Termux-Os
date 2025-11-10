@@ -1,7 +1,7 @@
 # Termux-Os
 All in One Termux Os..!! (New)
 
-# Installation...
+# Installation....
 
 1) git clone https://github.com/Bhai4You/Termux-Os
 
